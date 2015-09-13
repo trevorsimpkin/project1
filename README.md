@@ -1,7 +1,7 @@
 # Dynamic Web Apps Portfolio
 
 ## Live URL
-<http://p1.dwa15.com>
+<http://p1.trevorsimpkin.com>
 
 ## Description
 A simple web page describing myself. Bootstrap framework used. Placeholder links to projects 2,3, and 4 on the right of page. 
