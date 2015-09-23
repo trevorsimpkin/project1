@@ -1,10 +1,10 @@
 # Dynamic Web Apps Portfolio
 
 ## Live URL
-<http://p2.trevorsimpkin.com>
+<http://p1.trevorsimpkin.com>
 
 ## Description
-A simple web page that generates a XCKD password. Bootstrap framework used. Links to project1, project 1 github and project 2 git hub. Also, placeholder link to project 3 on the right of page. 
+A simple web page describing myself. Bootstrap framework used. Placeholder links to projects 2,3, and 4 on the right of page. 
 
 ## Demo
 No demo necessary for this project.
